@@ -1,4 +1,4 @@
 mayaxes
 =======
 
-MATLAB style MayaVI plots
+MATLAB styling for MayaVI plots
