@@ -17,7 +17,7 @@ or smaller).
 'xlabel'        X axis label text (default = 'X')
 'ylabel'        Y axis label text (default = 'Y')
 'zlabel'        Z axis label text (default = 'Z')
-'handle'        Graphics handle of object plotted (extents used for bounding box)
+'handle'        Graphics handle of object (if bounding box is to be plotted)
 'title_size'    Font size of the title text (default = 25)
 'ticks'         Number of divisions on each axis (default = 7)
 'font_scaling'  Font scaling factor for axis text (default = 0.7)
